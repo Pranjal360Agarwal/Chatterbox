@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE).
 We hope you enjoy using Chatterbox! If you encounter any issues or have suggestions for improvement, please don't hesitate to open an issue or reach out to my project.
 
 
-
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
